@@ -1,1 +1,1 @@
-# AI-risk-game
+# AI risk game
