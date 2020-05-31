@@ -1,0 +1,24 @@
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\bin\Debug\Risk_game_AI.exe.config
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\bin\Debug\Risk_game_AI.exe
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\bin\Debug\Risk_game_AI.pdb
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.csprojAssemblyReference.cache
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.MainMenu.resources
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.USA_map.resources
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.Properties.Resources.resources
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.Risk_splashScreen.resources
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.csproj.GenerateResource.cache
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.csproj.CoreCompileInputs.cache
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.exe
+C:\Users\wadiebishoy\source\repos\Risk_game_AI\Risk_game_AI\obj\Debug\Risk_game_AI.pdb
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\bin\Debug\Risk_game_AI.exe.config
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\bin\Debug\Risk_game_AI.exe
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\bin\Debug\Risk_game_AI.pdb
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.csprojAssemblyReference.cache
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.MainMenu.resources
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.USA_map.resources
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.Properties.Resources.resources
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.Risk_splashScreen.resources
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.csproj.GenerateResource.cache
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.csproj.CoreCompileInputs.cache
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.exe
+D:\college\7th Term\AI\Assignements\Assignement2\Risk_game_AI(Delivered)\obj\Debug\Risk_game_AI.pdb
